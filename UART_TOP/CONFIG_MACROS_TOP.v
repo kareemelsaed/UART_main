@@ -1,0 +1,3 @@
+`define WIDTH 8
+`define ODD_PARITY_CONFIG 1 
+`define EVEN_PARITY_CONFIG 0 
